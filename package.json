@@ -1,0 +1,21 @@
+{
+  "name": "learn-cicd-starter",
+  "version": "1.0.0",
+  "description": "This repo contains the starter code for the \"Notely\" application for the \"Learn CICD\" course on [Boot.dev](https://boot.dev).",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechWith5000/learn-cicd-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TechWith5000/learn-cicd-starter/issues"
+  },
+  "homepage": "https://github.com/TechWith5000/learn-cicd-starter#readme"
+}
