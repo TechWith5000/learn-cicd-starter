@@ -24,6 +24,9 @@ jobs:
       - name: Clean install
         run: npm ci
 
+      - name: Install vitest
+        run: npm install -D vitest
+
       - name: Run tests
         run: npm run test
 
